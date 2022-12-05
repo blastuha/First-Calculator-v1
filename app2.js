@@ -102,3 +102,5 @@ document.querySelector('.calc-grid').onclick = (event) => {
 
   console.log({a, sign, b, finish})
 }
+
+//test
